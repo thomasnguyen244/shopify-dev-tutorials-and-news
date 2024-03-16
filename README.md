@@ -113,9 +113,31 @@ Link: https://shopify.dev/docs/apps/getting-started/create
 - You're using the latest version of Chrome or Firefox.
 
 ## Step 1: Create a new app
-## Step 2: Start a local development server
-## Step 3: Install your app on your development store
+*You can create a new Shopify app using an npm, yarn, or pnpm command.*
+- Navigate to the directory where you want to create your app. Your app will be created in a new subdirectory.
+- Run one of the following commands to create a new app: ``npm init @shopify/app@latest`` or ``yarn create @shopify/app``
+- When prompted, enter a name for your app, and then select Start with Remix to use the [Remix template](https://github.com/Shopify/shopify-app-template-remix)
 
+## Step 2: Start a local development server
+*After your app is created, you can work with using a local development server and the [Shopify CLI](https://shopify.dev/docs/apps/tools/cli).*
+Shopify CLI uses [Cloudflare](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/do-more-with-tunnels/trycloudflare/) to create a tunnel that enables your app to be accessed using a HTTPS URL.
+- Navigate to your newly created app directory. ``cd my-new-app``
+- Run the following command to start a local server for your app: ``npm run dev`` or ``yarn dev``
+- Shopify CLI guides you through the following tasks:
+- + Logging into your [Partner account](https://help.shopify.com/partners/about?shpxid=4587ddf3-F4FD-4153-64DC-6319D92E6280) and selecting a Partner organization
+- + Creating an app in the Partner Dashboard, and connecting your local code to the app
+- + Creating your [Prisma SQLite database](https://github.com/Shopify/shopify-app-template-remix#application-storage)
+- + Creating a tunnel between your local machine and the development store
+
+## Step 3: Install your app on your development store
+*You can install your app on your development store, and automatically populate your development store with products that you can use for app testing.*
+- With the server running, press p to open your app's preview URL in a browser.
+When you open the URL, you're prompted to install the app on your development store.
+- Click Install app to install the app on the development store.
+You now have a development store running with your new app installed:
+- From the home page of the new app, click Generate a product to create a product for your development store.
+
+  
 # Build a Shopify app using Remix
 *After you create an app, you can add your own functionality to pages inside and outside of the Shopify admin.*
 
