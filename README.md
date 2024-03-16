@@ -1,4 +1,4 @@
-# shopify-dev-tutorials-and-news
+# Shopify Developer Tutorials and News
 List of shopify frontend/backend developer tutorials and news
 
 # I. Shopify theme develop tutorial
@@ -98,6 +98,8 @@ Link: https://shopify.dev/docs/themes/tools/dawn
 It's never been easier to create high-quality apps that look, feel, and perform like they’re part of Shopify. Quickly build performant apps with our updated CLI, optimized APIs, and App Design Guidelines.
 In this tutorial, you'll create an app that users can access in the Shopify admin. You'll generate starter code and use Shopify CLI to develop your app.
 
+Link: https://shopify.dev/docs/apps/getting-started/create
+
 ## What you'll learn
 - Initialize a Remix app that uses Shopify CLI
 - Install your app on a development store
@@ -115,4 +117,34 @@ In this tutorial, you'll create an app that users can access in the Shopify admi
 ## Step 3: Install your app on your development store
 
 # Build a Shopify app using Remix
+*After you create an app, you can add your own functionality to pages inside and outside of the Shopify admin.*
+
+Link: https://shopify.dev/docs/apps/getting-started/build-qr-code-app?framework=remix
+
+# Submit app to shopify app store
+Following the guide: [Crucial guidelines to remember when submitting your Shopify app]()
+
+
+# FAQs
+*Question 1*: How to submit my app for review for approval
+*Answer*: To submit your app for review for approval
+- Log in to your Partner Dashboard.
+- Click Apps.
+- Click the name of your app.
+- Click Distribution.
+- If you haven't selected a distribution method yet, then select Public distribution, and click Confirm.
+- Click Create listing or Manage listing.
+- Select an existing listing, or click Add translated listing.
+- Fill out all the required fields, making sure to follow our listing guidelines.
+- Click Preview listing to see what your listing will look like when it's live. Make sure that the content, formatting, and images appear as expected.
+- Click Save.
+- At the top of the form, click the back button ← to return to the app listing page.
+- Click Submit app.
+- Check the checkbox to acknowledge that your app meets the submission requirements, then click Submit for review.
+- Shopify will notify you by email of updates or things to fix during the process. To make sure that you receive emails from the Shopify review team, adjust your email settings to allow emails from app-submissions@shopify.com and noreply@shopify.com.
+
+*To make sure you receive your review updates and communications, add app-submissions@shopify.com and noreply@shopify.com to your allowed senders list in your email service provider’s settings.
+You’ll get a response from us within 7 days of submitting your app.*
+
+
 
