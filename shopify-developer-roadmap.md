@@ -1,4 +1,5 @@
 # How To Become A Shopify Developer? Ultimate Roadmap!
+*Shopify Developer Roadmap*
 
 Do you want to become a Shopify developer? If so, you're in the right place! In this guide, we will walk you through everything you need to know in order to make this dream a reality. 
 We'll cover topics such as what Shopify is, what skills you need to be a successful developer, how to find work as a Shopify developer, and more! 
