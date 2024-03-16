@@ -39,7 +39,7 @@ Shopify theme directory structure
 
 ### What you'll learn
 - Set up your local development environment
-- Cloned (Dawn)[https://shopify.dev/docs/themes/tools/dawn], Shopify's reference theme
+- Cloned [Dawn](https://shopify.dev/docs/themes/tools/dawn), Shopify's reference theme
 - Previewed changes made to your local code
 - Pushed theme code to your Shopify store and published your theme
 
