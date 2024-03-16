@@ -144,7 +144,7 @@ You now have a development store running with your new app installed:
 Link: https://shopify.dev/docs/apps/getting-started/build-qr-code-app?framework=remix
 
 # Submit app to shopify app store
-Following the guide: [Crucial guidelines to remember when submitting your Shopify app]()
+Following the guide: [Crucial guidelines to remember when submitting your Shopify app](https://github.com/thomasnguyen244/shopify-dev-tutorials-and-news)
 
 
 # FAQs
@@ -169,4 +169,6 @@ Following the guide: [Crucial guidelines to remember when submitting your Shopif
 You’ll get a response from us within 7 days of submitting your app.*
 
 
-
+# Shopify News
+- [Shopify Trends for 2024: Embracing Innovation and Enhancing E-Commerce Success](https://www.linkedin.com/pulse/shopify-trends-2024-embracing-innovation-enhancing-e-commerce-6wiwf/)
+- [Shopify Industry News and Trends](https://www.shopify.com/retail/topics/industry-news-trends)
